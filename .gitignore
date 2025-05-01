@@ -131,3 +131,5 @@ dmypy.json
 backend/.env
 
 frontend/node_modules
+
+.vscode
